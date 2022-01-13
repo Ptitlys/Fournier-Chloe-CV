@@ -381,7 +381,8 @@ hr {
     }
 
     .background2,
-    .background1 {
+    .background1,
+    .background3 {
         height: 40vh;
         width: 30vh;
         filter: none;
