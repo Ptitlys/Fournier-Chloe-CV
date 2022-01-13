@@ -115,9 +115,9 @@ main header{
 }
 
 hr {
-    background-color: rgb(194, 107, 211);
-    height: 2px;
-    border: none;
+    background-color: white;
+    border-width: 0.2px;
+    border-top-color: white;
 }
 
 #competences p{
@@ -178,15 +178,10 @@ hr {
     color:rgb(194, 107, 211);
 }
 
+
 .projet{
     padding-bottom:50px;
     padding-top:50px;
-}
-
-hr{
-    background-color:rgb(194, 107, 211);
-    height: 2px;
-    border:none;
 }
 
 
