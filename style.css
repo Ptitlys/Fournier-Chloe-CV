@@ -115,28 +115,40 @@ main header{
 }
 
 hr {
-    background-color: white;
-    border-width: 0.2px;
-    border-top-color: white;
+    background-color: rgb(194, 107, 211);
+    height: 2px;
+    border: none;
 }
 
 #competences p{
     margin-bottom: 2px;
 }
 
-.background3{
-    background-image: url(image/referhub.png);
-    background-position: bottom;
+.background4{
+    background-image: url(image/filmo.jpg);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
     height: 70vh;
     width: 50vh;
     z-index:-1;
+    margin-bottom: 20px;
+}
+
+.background3{
+    background-image: url(image/referhub.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 70vh;
+    width: 50vh;
+    z-index:-1;
+    margin-bottom: 20px;
 }
 
 .background1 {
     background-image: url(image/projet1.png);
-    background-position: bottom;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
     height: 70vh;
@@ -146,7 +158,7 @@ hr {
 
 .background2 {
     background-image: url(image/projet2.png);
-    background-position: bottom;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
     height: 70vh;
@@ -164,6 +176,17 @@ hr {
 
 .couleur{
     color:rgb(194, 107, 211);
+}
+
+.projet{
+    padding-bottom:50px;
+    padding-top:50px;
+}
+
+hr{
+    background-color:rgb(194, 107, 211);
+    height: 2px;
+    border:none;
 }
 
 
