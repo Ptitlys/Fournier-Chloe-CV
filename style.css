@@ -10,10 +10,14 @@
 }
 
 .navbar-default{
-    background-color: #2B294B
-    ;
+    background-color: #2B294B;
     color: white;
 }
+
+#navbarMenu{
+    border-top: 1px solid #dee2e6;
+}
+
 .navbar-toggler{
     background-color: white;
 }
